@@ -1,6 +1,6 @@
 # CLI Server Performance Monitor
 
-![CLI Performance Monitor Screenshot](images/image.png)
+![CLI Performance Monitor Screenshot](docs/images/image.png)
 
 A lightweight Python CLI tool for real-time system performance monitoring. This tool provides a clean, colorful interface to monitor CPU usage, memory consumption, disk space, and the top processes consuming system resources.
 
